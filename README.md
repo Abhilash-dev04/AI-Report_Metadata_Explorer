@@ -58,8 +58,3 @@ uvicorn backend.main:app --reload
 - **Add Data**: UI-driven data entry (no scheduler needed)
 - **Contact Dev Team**: Email notification for missing data
 - **ONNX Runtime**: 100% offline, no external AI APIs
-
-## Demo Credentials
-
-- Username: `admin` / Password: `admin123`
-- Username: `manager` / Password: `manager123`
